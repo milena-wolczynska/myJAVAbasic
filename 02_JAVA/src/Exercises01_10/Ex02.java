@@ -14,11 +14,18 @@ public class Ex02 {
         return isPrime;
     }
     public static void main(String[] args) {
-        boolean isPrimeAgain = checkingPrimeNumbers(98);
+        boolean isPrimeAgain = checkingPrimeNumbers(6);
+        boolean isPrimeAgain2 = checkingPrimeNumbers(21);
         if (isPrimeAgain) {
             System.out.println("The number IS prime");
         } else {
             System.out.println("The number is NOT prime");
         }
+        if (isPrimeAgain2) {
+            System.out.println("The number IS prime");
+        } else {
+            System.out.println("The number is NOT prime");
+        }
     }
+
 }
