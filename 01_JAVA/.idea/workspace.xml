@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2a2ffaf-b702-400a-8057-bcd248b19a48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/02_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex07_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex09_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_JAVA/src/Exercises01_10/TablePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <disabled>
+      <disabled_changelists>
+        <list default="true" id="d2a2ffaf-b702-400a-8057-bcd248b19a48" name="Default Changelist" comment="" />
+      </disabled_changelists>
+      <disabled_trackers />
+    </disabled>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qTw1XyG3oJycbVsH3GqsbYejEo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02_JAVA" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2a2ffaf-b702-400a-8057-bcd248b19a48" name="Default Changelist" comment="" />
+      <created>1617116672992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617116672992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
