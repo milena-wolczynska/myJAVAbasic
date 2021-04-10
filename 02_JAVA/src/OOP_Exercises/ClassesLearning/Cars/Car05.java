@@ -39,9 +39,9 @@ public class Car05 {
         return "\n==== \n Car: " +  this.type + " \n id: " + this.id + "\n=== \n";
     }
     public String runCar(){
-        return "\n ---\n" + this.type + " brum brum " + "\n ---\n" ;
+        return "\n ---\n" + this.type + this.color + " brum brum " + "\n ---\n" ;
     }
-    // metody do odczytu danych czyli tzw gettry
+    // metody do odczytu danych czyli tzw gettery
     public String getType() {  // geter (czyli metoda zaczynajaca sie od get..) zwraca typ zgodny z typem pola
         return this.type;
     }
